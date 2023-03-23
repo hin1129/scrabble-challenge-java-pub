@@ -1,4 +1,4 @@
-# Scrabble Challenge - this time in Java!
+#  Academy Project - Scrabble Challenge - this time in Java!
 
 Welcome to the Scrabble challenge!
 
